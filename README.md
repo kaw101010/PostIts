@@ -38,7 +38,7 @@ A decentralized social platform built on Solana where users can share posts and 
 1. Clone the repository
 ```bash
 git clone <repository-url>
-cd solsocial
+cd postits
 ```
 
 2. Install backend dependencies
