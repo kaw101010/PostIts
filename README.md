@@ -1,4 +1,4 @@
-# SolSocial
+# PostIts
 
 A decentralized social platform built on Solana where users can share posts and tip each other with SOL.
 
